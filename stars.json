@@ -13,75 +13,75 @@
   },
   {
     "full_name": "opal/opal",
-    "stargazers_count": 4513,
-    "open_issues_count": 138,
+    "stargazers_count": 4518,
+    "open_issues_count": 133,
     "forks_count": 327
   },
   {
     "full_name": "fnando/i18n-js",
-    "stargazers_count": 3456,
+    "stargazers_count": 3457,
     "open_issues_count": 9,
     "forks_count": 513
   },
   {
     "full_name": "bootstrap-vue/bootstrap-vue",
-    "stargazers_count": 13394,
+    "stargazers_count": 13399,
     "open_issues_count": 166,
-    "forks_count": 1793
+    "forks_count": 1795
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 30755,
-    "open_issues_count": 43,
-    "forks_count": 2136
+    "stargazers_count": 30839,
+    "open_issues_count": 32,
+    "forks_count": 2147
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 57912,
-    "open_issues_count": 281,
-    "forks_count": 2616
+    "stargazers_count": 57958,
+    "open_issues_count": 282,
+    "forks_count": 2620
   },
   {
     "full_name": "cs01/gdbgui",
-    "stargazers_count": 8132,
-    "open_issues_count": 115,
-    "forks_count": 481
+    "stargazers_count": 8140,
+    "open_issues_count": 111,
+    "forks_count": 482
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 11954,
-    "open_issues_count": 107,
-    "forks_count": 1263
+    "stargazers_count": 11978,
+    "open_issues_count": 104,
+    "forks_count": 1262
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 39172,
-    "open_issues_count": 594,
-    "forks_count": 4713
+    "stargazers_count": 39220,
+    "open_issues_count": 597,
+    "forks_count": 4725
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 187419,
-    "open_issues_count": 528,
-    "forks_count": 29999
+    "stargazers_count": 187551,
+    "open_issues_count": 527,
+    "forks_count": 30030
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 10363,
+    "stargazers_count": 10366,
     "open_issues_count": 0,
-    "forks_count": 566
+    "forks_count": 567
   },
   {
     "full_name": "webview/webview",
-    "stargazers_count": 8771,
+    "stargazers_count": 8800,
     "open_issues_count": 251,
-    "forks_count": 679
+    "forks_count": 682
   },
   {
     "full_name": "ffi/ffi",
-    "stargazers_count": 1879,
+    "stargazers_count": 1880,
     "open_issues_count": 105,
-    "forks_count": 302
+    "forks_count": 301
   },
   {
     "full_name": "piotrmurach/tty-box",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 115889,
+    "stargazers_count": 116201,
     "open_issues_count": 187,
-    "forks_count": 10341
+    "forks_count": 10390
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 55989,
+    "stargazers_count": 56058,
     "open_issues_count": 584,
-    "forks_count": 5407
+    "forks_count": 5415
   },
   {
     "full_name": "aravindnc/A-to-Z-List-of-Useful-Node.js-Modules",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 21038,
+    "stargazers_count": 21062,
     "open_issues_count": 9,
-    "forks_count": 1491
+    "forks_count": 1494
   },
   {
     "full_name": "twitter/twemoji",
-    "stargazers_count": 13152,
+    "stargazers_count": 13180,
     "open_issues_count": 50,
-    "forks_count": 1507
+    "forks_count": 1512
   },
   {
     "full_name": "markop159/KODI-Popcorn-Time",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "hishamhm/htop",
-    "stargazers_count": 5574,
+    "stargazers_count": 5575,
     "open_issues_count": 321,
     "forks_count": 614
   },
   {
     "full_name": "cmatsuoka/figlet",
-    "stargazers_count": 810,
+    "stargazers_count": 811,
     "open_issues_count": 11,
     "forks_count": 90
   },
@@ -153,30 +153,30 @@
     "full_name": "wesbos/es6.io",
     "stargazers_count": 2020,
     "open_issues_count": 16,
-    "forks_count": 1149
+    "forks_count": 1148
   },
   {
     "full_name": "oclint/oclint",
-    "stargazers_count": 3352,
+    "stargazers_count": 3354,
     "open_issues_count": 17,
     "forks_count": 428
   },
   {
     "full_name": "danmar/cppcheck",
-    "stargazers_count": 3645,
-    "open_issues_count": 19,
-    "forks_count": 1093
+    "stargazers_count": 3654,
+    "open_issues_count": 24,
+    "forks_count": 1095
   },
   {
     "full_name": "uncrustify/uncrustify",
-    "stargazers_count": 2364,
-    "open_issues_count": 251,
+    "stargazers_count": 2369,
+    "open_issues_count": 248,
     "forks_count": 485
   },
   {
     "full_name": "photonstorm/phaser",
-    "stargazers_count": 30268,
-    "open_issues_count": 195,
-    "forks_count": 6522
+    "stargazers_count": 30286,
+    "open_issues_count": 196,
+    "forks_count": 6526
   }
 ]
